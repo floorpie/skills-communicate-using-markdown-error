@@ -6,6 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+# H1 header
 
 # Communicate using Markdown
 
@@ -22,7 +23,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
-
+# H1 header
+###### h6 header
 _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
